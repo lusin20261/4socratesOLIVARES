@@ -1,0 +1,5 @@
+r=input("escribetu nombre: ")
+b=input("escribe tu oby favorito: ")
+a=input("escribe tu comida favorita: ")        
+f=input("cuantos años tienes: ")
+print("hola",r,"que bueno que te guste el",b,"y tu comida favorita sea el ",a,"y que tengas",f,"como yo.")
